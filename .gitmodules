@@ -1,0 +1,3 @@
+[submodule "elixir.docs"]
+	path = elixir.docs
+	url = https://github.com/hackages/elixir.docs
